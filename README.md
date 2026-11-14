@@ -1,5 +1,5 @@
 # Youtube-Poop-Saas-Soos-Generator-by-hurius
-Hello folks, yes, I just contributed a new youtube poop saas generator with help from KI in phyton language. It makes from different audio files (voice files) 
+Hello folks, yes, I just contributed a new youtube poop saas generator with help from AI in phyton language. It makes from different audio files (voice files) 
 as input funny saas soos convertations. 
 
 INSTRUCTIONS
