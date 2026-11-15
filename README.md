@@ -4,6 +4,7 @@ as input funny saas soos convertations.
 
 INSTRUCTIONS
 1. You need Phyton on your device. I installed it under windoze 11 with "pip install librosa soundfile scipy numpy pyinstaller" in my Powershell prompt.
+Before I installed the phyton kit as well from the producer website (ask AI or your grandma)
 2. dont ask more... due to that, you are the coder!
 3. do not forget to put ffmpeg.exe file in the same folder located with "ytp_saas_generator.py"
 4. you run the comiler (under windows PS) with "pyinstaller --onefile --windowed --add-binary "ffmpeg.exe;." --collect-all librosa --collect-all soundfile ytp_saas_generator.py"
