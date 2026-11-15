@@ -8,7 +8,7 @@ Before I installed the phyton kit as well from the producer website (ask AI or y
 2. dont ask more... due to that, you are the coder!
 3. do not forget to put ffmpeg.exe file in the same folder located with "ytp_saas_generator.py"
 4. you run the comiler (under windows PS) with "pyinstaller --onefile --windowed --add-binary "ffmpeg.exe;." --collect-all librosa --collect-all soundfile ytp_saas_generator.py"
-5. run the exe. it could be 150 MB big but it is worth
+5. run the exe located in "dist" folder, after compiling success. it could be 150 MB big but it is worth.
 6. Try to use voice messages or files with many vocals
 7. press the buttons
 8. Enjoy.
